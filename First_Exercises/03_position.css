@@ -1,0 +1,27 @@
+.main{
+    background-color: yellow;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+.second{
+    background-color: green;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+.third{
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+.fourth{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
