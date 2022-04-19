@@ -1,0 +1,44 @@
+.body{
+    height: 600px;
+    background-image: url("images_07/team7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.back{
+    height: 70%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.quotes{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border-style: solid;
+    border-color: black;
+    color: yellow;
+    text-align: center;
+}
+
+.row{
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-style: ridge;
+
+} 
+
+.minibox{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+.picture{
+    height: 100px;
+    border-style: solid;
+    border-color: black;
+}
