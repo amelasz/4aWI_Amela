@@ -1,7 +1,7 @@
 console.log("Hallo, willkommen.");
 console.log("Schön dich zu sehen");
 
-// Variablen
+// Variablen 
 
 let a = 7;
 let b = 8;
